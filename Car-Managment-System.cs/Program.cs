@@ -11,7 +11,7 @@ namespace Car_Managment_System.cs
     {
         static void Main(string[] args)
         {
-            CarUI ui = new CarUI();
+            CarUI ui =  new CarUI();
             ui.Start();
         }
     }

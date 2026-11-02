@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\car-managment-system.cs\\car\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|c:\\users\\abc\\onedrive\\documents\\csharp\\car-managment-system.cs\\car-managment-system.cs\\car\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CD5CD2-3AD6-4707-B53A-28D720DD6457}|Car-Managment-System.cs\\Car-Managment-System.cs.csproj|solutionrelative:car-managment-system.cs\\car\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,8 +69,7 @@
               "RelativeToolTip": "Car-Managment-System.cs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T19:13:44.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T19:13:44.667Z"
             },
             {
               "$type": "Document",
@@ -154,8 +153,7 @@
               "RelativeToolTip": "Car-Managment-System.cs\\Admin\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T13:00:24.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T13:00:24.28Z"
             },
             {
               "$type": "Document",
@@ -165,7 +163,7 @@
               "RelativeDocumentMoniker": "Car-Managment-System.cs\\Car\\UI.cs",
               "ToolTip": "C:\\Users\\abc\\OneDrive\\Documents\\csharp\\Car-Managment-System.cs\\Car-Managment-System.cs\\Car\\UI.cs",
               "RelativeToolTip": "Car-Managment-System.cs\\Car\\UI.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T02:29:18.686Z",
               "EditorCaption": ""

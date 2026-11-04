@@ -178,7 +178,7 @@ namespace CarManagementSystem.UI
                 Console.WriteLine("6. Exit");
                 Console.Write("Choose option: ");
 
-                string option = Console.ReadLine(); `
+                string option = Console.ReadLine(); 
 
                 if (option == "1")
                 {
@@ -200,6 +200,7 @@ namespace CarManagementSystem.UI
                     Console.Write("Enter car model/year: ");
                    
                 }
+              
                 else if (option == "5")
                 {
                     Console.Write("Enter car name to book: ");

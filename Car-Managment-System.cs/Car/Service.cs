@@ -9,9 +9,9 @@ namespace CarManagementSystem.Service
     {
         private CarRepository _repository = new CarRepository();
 
-        public int TotalSalesCount { get; private set; }
+        public int TotalSalesCount;
 
-        public int TotalRevenue { get; private set; }
+        public int TotalRevenue;
 
         public void AddCar(Car car)
         {

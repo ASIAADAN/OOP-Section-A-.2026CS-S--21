@@ -19,7 +19,7 @@ namespace CarManagementSystem.Repository
             }
             else
             {
-                _cars.Add(new Car("civic", "ABC123", 5000000, 2022, "Black", "Available"));
+                _cars.Add(new Car("tesla roaster", "ABC123", 5000000, 2022, "Black", "Available"));
                 _cars.Add(new Car("audi", "XYZ456", 4500000, 2021, "White", "Booked"));
                 _cars.Add(new Car("Mehran", "LMN789", 1500000, 2018, "Silver", "Available"));
                 _cars.Add(new Car("City", "DEF321", 4000000, 2020, "brown", "Booked"));
